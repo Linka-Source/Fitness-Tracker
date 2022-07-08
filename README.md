@@ -2,7 +2,7 @@
 
 Deployment link: https://fitness-tracker-paulina.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/78789156/125297659-96235780-e366-11eb-9d92-f55de72c89c5.png)
+![image](https://user-images.githubusercontent.com/76650898/177985392-bcee76b6-8275-4199-a57a-77290e657457.png)
 
 
 ## Description:
